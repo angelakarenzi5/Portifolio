@@ -4,7 +4,7 @@
 ## Description
 The purpose of this project is to be able to show a clear understarting of what was taught in week one. Week one of prep had a lot of content, the content learnt is displayed in the project I created. The application is a basic description of who Angela Uwase Karenzi is, what her hobbies are and then finally tangible proof of what she was taught throughout the week.
 ## Setup/Installation Requirements
-*Refer to git clone:https://github.com/angelakarenzi5/Self-portifolio.git,
+Refer to git clone:https://github.com/angelakarenzi5/Self-portifolio.git,
 You need a browser,
 You need code editor.
 ## Known Bugs
