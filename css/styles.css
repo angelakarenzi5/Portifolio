@@ -1,0 +1,49 @@
+body{
+    background-image:url("https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg");
+    background-repeat:no-repeat;
+}
+h1{
+    font-family:"Sans-serif";
+    font-weight:bold;
+    text-align:center;
+    font-size:xx-large;
+}
+p{
+    font-family:'cursive';
+    font-size:16px;
+    line-height:1.5;
+}
+#image{
+    display:flex;
+    flex-direction:row;
+}
+#aboutme{
+    padding-right:10%;
+    padding-left:10%;
+}
+#picture1{
+    margin-right:25px;
+}
+.hobbies{
+    padding-right:10%;
+    padding-left:10%;
+}
+#aboutme > h2{
+    text-align:center;
+}
+#list>ol>li>a:hover{background-color: skyblue;
+    color:blue;
+    font-size:18px;
+    font-family:'Courier New';
+    padding:10px;
+
+}
+#list>ol>li>a{font-size:18px;
+text-decoration: none;
+}
+.footer{
+    background-color:purple;
+    color:hotpink;
+    width:100%;
+    text-align:center;
+}
