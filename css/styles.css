@@ -97,3 +97,7 @@ h2{
   background: url("https://images.pexels.com/photos/1166643/pexels-photo-1166643.jpeg");
   height:100%;
 }
+
+strong{
+  margin-left: 60px;
+}
